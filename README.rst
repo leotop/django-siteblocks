@@ -1,4 +1,4 @@
-django-siteblocks
+django-siteblocks (статичные блоки по url)
 =================
 http://github.com/idlesign/django-siteblocks
 
